@@ -14,7 +14,7 @@ ms.author: sgroespe
 
 ---
 # Count Inventory Using Documents
-You can take a physical inventory of your items by using physical inventory order and physical inventory recording documents. The **Physical Inventory Order** page is used to organize the complete inventory counting project, for example one per location. The **Physical Inventory Recording** page is used by to communicate and capture the actual counting of items. You can create multiple recordings for one order, for example to distribute groups of items to different employees.
+You can take a physical inventory of your items by using physical inventory order and physical inventory recording documents. The **Physical Inventory Order** page is used to organize the complete inventory counting project, for example one per location. The **Physical Inventory Recording** page is used by warehouse employees to communicate and capture the actual counting of items. You can create multiple recordings for one order, for example to distribute groups of items to different employees.
 
 The **Physical Inventory Recording** report can be printed from each recording and contains empty quantity fields for entering the counted inventory. When a user is done counting, and the quantities are entered on the **Physical Inventory Recoding** page, you choose the **Finish** action. This transfers the quantities to the related lines on the **Physical Inventory Order** page. Functionality ensures that no item count can be recorded twice.      
 
